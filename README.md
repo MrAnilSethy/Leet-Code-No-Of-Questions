@@ -9,7 +9,7 @@ A daily record of my **LeetCode problem-solving journey**, tracking the number o
 | Day    | Date               | Questions Solved | Pattern       
 | ------ | ------------------ | ---------------: | -----------     
 | Day 1  | September 1, 2026  |                4 | Two Pointer    |         
-| Day 2  | September 2, 2026  |                2 | Two Pointer    |
+| Day 2  | September 2, 2026  |                2 | Slow & Fast Pointer    |
 | Day 3  | September 3, 2026  |                4 | Sliding Window |
 | Day 4  | September 4, 2026  |                0 | —           
 | Day 5  | September 5, 2026  |                0 | —           
