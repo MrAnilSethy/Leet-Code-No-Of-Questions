@@ -6,14 +6,14 @@ A daily record of my **LeetCode problem-solving journey**, tracking the number o
 
 ## 📅 September 2026
 
-| Day    | Date               | Questions Solved | Pattern     |
-| ------ | ------------------ | ---------------: | ----------- |
-| Day 1  | September 1, 2026  |                4 | Two Pointer |
-| Day 2  | September 2, 2026  |                1 | Two Pointer |
-| Day 3  | September 3, 2026  |                0 | —           |
-| Day 4  | September 4, 2026  |                0 | —           |
-| Day 5  | September 5, 2026  |                0 | —           |
-| Day 6  | September 6, 2026  |                0 | —           |
+| Day    | Date               | Questions Solved | Pattern       
+| ------ | ------------------ | ---------------: | -----------     
+| Day 1  | September 1, 2026  |                4 | Two Pointer    |         
+| Day 2  | September 2, 2026  |                1 | Two Pointer    |
+| Day 3  | September 3, 2026  |                2 | Sliding Window |
+| Day 4  | September 4, 2026  |                0 | —           
+| Day 5  | September 5, 2026  |                0 | —           
+| Day 6  | September 6, 2026  |                0 | —           
 | Day 7  | September 7, 2026  |                0 | —           |
 | Day 8  | September 8, 2026  |                0 | —           |
 | Day 9  | September 9, 2026  |                0 | —           |
@@ -44,10 +44,10 @@ A daily record of my **LeetCode problem-solving journey**, tracking the number o
 
 | Metric                 |      Progress |
 | ---------------------- | ------------: |
-| Total Questions Solved |         **5** |
+| Total Questions Solved |         **7** |
 | Target                 |       **100** |
-| Remaining              |        **95** |
-| Current Streak         | 🔥 **2 Days** |
+| Remaining              |        **93** |
+| Current Streak         | 🔥 **3 Days** |
 
 
 
@@ -58,7 +58,7 @@ A daily record of my **LeetCode problem-solving journey**, tracking the number o
 | Pattern             | Questions |
 | ------------------- | --------: |
 | Two Pointer         |     **5** |
-| Sliding Window      |         0 |
+| Sliding Window      |     **2** |
 | Binary Search       |         0 |
 | Hashing             |         0 |
 | Stack               |         0 |
